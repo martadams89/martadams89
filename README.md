@@ -9,7 +9,7 @@ I specialize in optimizing complex systems and driving efficiency through automa
 - **Self-Hosting Projects:** I run Docker containers on Ubuntu VMs (Proxmox) and Oracle Cloud's ARM servers to experiment with various self-hosted services.
 - **Server Administration:** Extensive experience with Linux (CentOS, Oracle Linux, RHEL, Ubuntu) and Windows, from load balancers to monitoring.
 - **Security and Compliance:** Engaged in ISO27001 and SOC2 audits, managing vulnerability hunting and remediation.
-- **Open-Source Contributions:** I contribute to projects on GitHub, including system automation tools.
+- **Open-Source Contributions:** I occasioanlly contribute to projects on GitHub, and host a couple of pet-projects.
 
 ### 🧠 **AI Enthusiast**  
 I recently earned certifications related to ChatGPT and actively use AI tools like ChatGPT to brainstorm, troubleshoot, and enhance productivity in my work. It’s become an invaluable assistant in my day-to-day tasks.
