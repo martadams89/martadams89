@@ -12,7 +12,7 @@ I specialize in optimizing complex systems and driving efficiency through automa
 - **Open-Source Contributions:** I occasioanlly contribute to projects on GitHub, and host a couple of pet-projects.
 
 ### 🧠 **AI Enthusiast**  
-I recently earned certifications related to ChatGPT and actively use AI tools like ChatGPT to brainstorm, troubleshoot, and enhance productivity in my work. It’s become an invaluable assistant in my day-to-day tasks.
+I recently earned certifications related to ChatGPT and actively use AI tools to brainstorm, troubleshoot, and enhance productivity in my work.
 
 ### 📜 **Certifications**  
 - **Azure Fundamentals & Sentinel SIEM Security**
