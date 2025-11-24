@@ -137,7 +137,7 @@ I'm an **AI enthusiast** who actively integrates AI tools into my daily workflow
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-adams)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-adams-6b633542)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martadams89)
   <!-- Uncomment and update with your email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) -->
   
@@ -149,6 +149,6 @@ I'm an **AI enthusiast** who actively integrates AI tools into my daily workflow
 
 <div align="center">
   
-  **⭐ From [martadams89](https://github.com/martadams89) | Built with ❤️ and ☕**
+  **⭐ From [martadams89](https://github.com/martadams89) | Built with ❤️ and 🍵**
   
 </div>
