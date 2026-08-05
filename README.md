@@ -5,7 +5,7 @@
 <div align="center">
   
   [![Visitor Count](https://komarev.com/ghpvc/?username=martadams89&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/martadams89)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/martin-adams](https://www.linkedin.com/in/martin-adams-6b633542/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/martin-adams-6b633542/)
   [![GitHub followers](https://img.shields.io/github/followers/martadams89?label=Follow&style=social)](https://github.com/martadams89)
   
 </div>
